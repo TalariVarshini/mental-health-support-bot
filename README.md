@@ -15,9 +15,9 @@
 
 ## 🚀 Demo Preview
 
-<img src="https://i.imgur.com/loWlbqH.png" width="800">
+<img src="file:///Users/talarivarshini/Desktop/Screenshot%202025-07-09%20at%209.29.03%E2%80%AFPM.png" width="800">
 
-🎥 You can also check out the [📺 Demo Video on Google Drive](https://your-demo-link.com) *(Replace this with your actual video link)*
+🎥 You can also check out the [📺 Demo Video on Google Drive](https://drive.google.com/file/d/1d6RPv5JmUalRpyTyrTBeNbYEY73ROCbn/view?usp=sharing) *(Replace this with your actual video link)*
 
 ---
 
