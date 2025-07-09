@@ -15,7 +15,7 @@
 
 ## 🚀 Demo Preview
 
-🎥 You can also check out the [📺 Demo Video on Google Drive](https://drive.google.com/file/d/1d6RPv5JmUalRpyTyrTBeNbYEY73ROCbn/view?usp=sharing) *(Replace this with your actual video link)*
+🎥 You can also check out the [📺 Demo Video on Google Drive](https://drive.google.com/file/d/1d6RPv5JmUalRpyTyrTBeNbYEY73ROCbn/view?usp=sharing)
 
 ---
 
