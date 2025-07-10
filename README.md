@@ -1,4 +1,4 @@
-# 🧠 Mental Health Support Bot – Mood Analyzer & AI Friend
+# 🧠 EmotiMate – Mood Analyzer & AI Friend
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-orange)
